@@ -12,7 +12,7 @@
 3. Платформа: Web (Chrome)
 4. IDE: VS Code
 
-![Изображение](img\step9_dudakov.PNG)
+![Изображение](https://github.com/mirror344/Flutter_Lab3/blob/main/img/step9_dudakov.PNG)
 
 ## Запуск
 
