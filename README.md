@@ -1,17 +1,29 @@
-# first_app_dudakov
+# Лабораторная работа №3. Знакомство с Flutter
 
-A new Flutter project.
+Создано первое веб-приложение при помощи Flutter. Был изменен текст, фон, цвет и размер текста.
 
-## Getting Started
+Дудаков Иван
+ИСП-241
 
-This project is a starting point for a Flutter application.
+## Стек и версии
 
-A few resources to get you started if this is your first Flutter project:
+1. Flutter 3.47.1
+2. Dart 3.13.1
+3. Платформа: Web (Chrome)
+4. IDE: VS Code
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+![Изображение](img\step9_dudakov.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Запуск
+
+1. Клонировать репозиторий `git clone <url>`
+2. Перейти в папку проекта 'cd first_app_dudakov`
+3. Выполнить `flutter pub get`
+4. Запустить командой `flutter run -d chrome`
+
+## Было изучено:
+
+1. Создание веб-приложения при помощи flutter
+2. Редактирование заднего фона
+3. Редактирование текста
+4. Выравнивание по центру
