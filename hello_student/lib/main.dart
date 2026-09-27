@@ -1,21 +1,18 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(
+runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Container(
-          child: Center(
-            child: Text(
-              'Привет! Меня зовут Дудаков Иван\nЯ студент группы ИСП-241',
-              style: TextStyle(
-                fontSize: 32,
-              )
+          child:        
+            const Image(image: NetworkImage(
+              'https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg'
+              ),
             )
-          ) 
         )
-      )
-    )
+      ),
+    ),
   );
 }
